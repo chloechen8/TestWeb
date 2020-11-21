@@ -9,6 +9,9 @@ tags: [Leetcode, Summary]
 ---
 
 ## 1. String
+|Number | Exercise|
+|409.Longest Palindrome |[Do](https://leetcode.com/problems/longest-palindrome/)|
+|28.Implement strStr() |[Do](https://leetcode.com/problems/longest-palindrome/)|
 - 409.Longest Palindrome [Exercise](https://leetcode.com/problems/longest-palindrome/)
 - 28.Implement strStr() [Exercise](https://leetcode.com/problems/implement-strstr/)
 - 125.Valid Palindrome
