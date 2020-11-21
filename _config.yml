@@ -17,7 +17,8 @@ navbar-links:
   Java Basic: "Java Basic"
   Python Basic: "Python Basic"
   Leetcode Basic: "Leetcode"
-  Project:"Project"
+  #Project:"Project"
+
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
