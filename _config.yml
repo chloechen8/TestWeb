@@ -14,9 +14,9 @@ author: ChloeChen666
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Java Basic: "Java Basic"
-  Python Basic: "Python Basic"
-  Leetcode Basic: "Leetcode"
+  Java : "Java"
+  Python : "Python"
+  Leetcode: "Leetcode"
   #Project:"Project"
 
   #Resources:
